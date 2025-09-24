@@ -11,8 +11,11 @@ A Flutter Task manager app demonstrating interactive UI patterns with dismissibl
 - 🎨 **Clean UI** - Material Design with intuitive interactions
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/768e7115-37df-4c6b-832f-bbba399719c5" alt="Reports Screen" width="200"> 
+<img src="https://github.com/user-attachments/assets/e58b9439-e2c7-4e7d-bae9-c61d2a8cf414" alt="Reports Screen" width="200"> 
+<img src="https://github.com/user-attachments/assets/067da830-72cb-488c-9f96-90f7aa48227c" alt="Reports Screen" width="200"> 
+<img src="https://github.com/user-attachments/assets/789548ac-4aea-4d12-97bd-1ea3abf6d4a3" alt="Reports Screen" width="200"> 
 
-*Add your app screenshots here*
 
 ## How to Use
 
